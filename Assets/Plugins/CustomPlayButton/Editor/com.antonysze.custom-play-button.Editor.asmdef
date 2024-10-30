@@ -1,0 +1,24 @@
+{
+    "name": "CustomPlayButton.Editor",
+    "rootNamespace": "ASze.CustomPlayButton",
+    "references": [
+        "GUID:661c506141b0edb4a9d82ac221a32db3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "Unity",
+            "expression": "1",
+            "define": "UNITY_TOOLBAR_EXTENDER"
+        }
+    ],
+    "noEngineReferences": false
+}

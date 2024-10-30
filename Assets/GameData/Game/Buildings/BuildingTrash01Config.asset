@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5ac87416efc504d8a20c7a145af9eb, type: 3}
+  m_Name: BuildingTrash01Config
+  m_EditorClassIdentifier: 
+  stock: {fileID: 11400000, guid: 7e168ea71039ba143b70bacb9b7742ee, type: 2}
+  recipes:
+  - {fileID: 11400000, guid: 6b782d19d5739a64a943c6131658fee8, type: 2}
+  - {fileID: 11400000, guid: aed54f869d58e7d40ab7485c7276f8a6, type: 2}
+  - {fileID: 11400000, guid: 226a59a4893e71744ab3b60de9da4954, type: 2}
+  - {fileID: 11400000, guid: 11fb0018ae52f214cb2f6857c45729bd, type: 2}
+  - {fileID: 11400000, guid: ae12f9df7daac5c44960553e9c211664, type: 2}
+  - {fileID: 11400000, guid: 4070b67d1cb13084bb61edd41bd50c85, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaaf0a52ba93dfc4aa4b92678013a151, type: 3}
+  m_Name: RecipeTrash01_06
+  m_EditorClassIdentifier: 
+  priority: 0
+  itemsIn:
+  - type: 6
+    count: 1
+  itemsOut:
+  - type: 999
+    count: 0
+  productionDuration: 0.25

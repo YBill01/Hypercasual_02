@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5ac87416efc504d8a20c7a145af9eb, type: 3}
+  m_Name: Building06Config
+  m_EditorClassIdentifier: 
+  stock: {fileID: 11400000, guid: 8b5e2e2bc9adc0444a9e3bb46846e5b2, type: 2}
+  recipes:
+  - {fileID: 11400000, guid: e4297506fdaa6684c95e43ecd7a63998, type: 2}

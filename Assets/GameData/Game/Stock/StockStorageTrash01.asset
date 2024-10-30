@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9edee212ba528469a2f24e25ad6835, type: 3}
+  m_Name: StockStorageTrash01
+  m_EditorClassIdentifier: 
+  slots:
+  - {fileID: 11400000, guid: ec96a314b28c9d34d8d02a17b772e63b, type: 2}
+  - {fileID: 11400000, guid: f565a91d4d15ad6489e1932b249a0ae0, type: 2}
+  - {fileID: 11400000, guid: 5d6fb3c658b08524ca004547fa88116c, type: 2}
+  - {fileID: 11400000, guid: 6c3f565bb82c11d4a8fe62335a01c5f9, type: 2}
+  - {fileID: 11400000, guid: 47aa9188dc1882541bb389b6a7a2b322, type: 2}
+  - {fileID: 11400000, guid: 00b461251f2fdc64ea5490d26e17f92f, type: 2}
+  transferDuration: 0.25

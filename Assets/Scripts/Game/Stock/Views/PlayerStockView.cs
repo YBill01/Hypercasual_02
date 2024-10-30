@@ -1,0 +1,4 @@
+public class PlayerStockView : StockView
+{
+
+}
